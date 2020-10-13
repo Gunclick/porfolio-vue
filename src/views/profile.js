@@ -1,26 +1,24 @@
 export default {
-    fullname: "Peerapat Matheang",
-    nickname: "@drafdecode",
+    fullname: "Wasupon Bunluelak",
+    nickname: "@gunclick",
     birthyear: 1996,
-    tel: "096-756-7844",
-    line: "progame69",
-    mail: "peerapatmatheang@gmail.com",
+    tel: "082-955-7756",
+    line: "gunclick",
+    mail: "gunclick@hotmail.com",
     county: "Thailand",
     address: "Bangkok",
     freelance: "Available",
     about: "I am a working style planner. And web developer, i graduated directly in software development And develop websites for many well-known national and government agencies and over the past 10 years I have experienced almost all types of websites.",
-    images: "/images/profile/wewebplus-05457-960x960.jpg",
-    no_images: "/images/profile/wewebplus-05457-960x960.jpg",
+    images: "/images/profile/gunclick_profile.jpg",
+    no_images: "/images/profile/gunclick_profile.jpg",
     social: {
-        facebook: "https://facebook.com/drafmatong",
-        linkedin: "https://www.linkedin.com/in/พีรพัฒน์-มาเที่ยง-0ba861157/",
-        github: "https://github.com/drafdecode",
+        facebook: "https://facebook.com/wasupon.bunl",
+        github: "https://github.com/Gunclick",
     },
     work:[
         "Software Engineer",
         "Web Developer",
         "FullStack Developer",
-        "Research and Development",
     ],
     certificates: [
         {
@@ -105,7 +103,7 @@ export default {
             },
             {
                 isActive: false,
-                year: "2019 - 2020",
+                year: "2018 - 2020",
                 subject: "Web Developer &<br> Research and Development",
                 title: "Wewebplus Co,. Ltd.",
                 desc: "It is a web development company with government clients and private companies.",
@@ -115,17 +113,10 @@ export default {
             {
                 isActive: false,
                 year: "2015 - 2019",
-                subject: "University Of Phayao",
-                title: "Phayao, Thailand",
-                desc: "It is a public university and I am the Northern Quota Entrance Examination of the Department of Engineering in Software Engineering.",
-            },
-            {
-                isActive: false,
-                year: "2009 - 2015",
-                subject: "Phromphiramwittaya School",
-                title: "Phitsanulok, Thailand",
-                desc: "Being a high school, I studied science and mathematics room 6/1.",
-            },
+                subject: "Bangkok University (Rangsit)",
+                title: "Bangkok, Thailand",
+                desc: "Bachelor's Degree, Multimedia Engineering and Internet Systems.",
+            }
         ],
     },
     skills: [
