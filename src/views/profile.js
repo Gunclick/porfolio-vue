@@ -51,8 +51,8 @@ export default {
                 isActive: true,
                 year: "2020 - Present",
                 subject: "FullStack Developer",
-                title: "289 Production House Co,. Ltd.",
-                desc: "It is a web development company with government clients and private companies.",
+                title: "BusX Co,. Ltd.",
+                desc: "Is the largest ticketing website development company in Thailand",
             },
             {
                 isActive: true,
