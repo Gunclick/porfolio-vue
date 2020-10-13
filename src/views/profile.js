@@ -51,6 +51,13 @@ export default {
                 subject: "Bangkok University (Rangsit)",
                 title: "Bangkok, Thailand",
                 desc: "Bachelor's Degree, Multimedia Engineering and Internet Systems.",
+            },
+            {
+                isActive: false,
+                year: "2010 - 2013",
+                subject: "Siam durakit",
+                title: "Bangkok, Thailand",
+                desc: "Vocational certificate, Business computer",
             }
         ],
     },
