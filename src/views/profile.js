@@ -1,14 +1,14 @@
 export default {
     fullname: "Wasupon Bunluelak",
     nickname: "@gunclick",
-    birthyear: 1996,
+    birthyear: 1994,
     tel: "082-955-7756",
     line: "gunclick",
     mail: "gunclick@hotmail.com",
     county: "Thailand",
     address: "Bangkok",
     freelance: "Available",
-    about: "I am a working style planner. And web developer, i graduated directly in software development And develop websites for many well-known national and government agencies and over the past 10 years I have experienced almost all types of websites.",
+    about: "I am a web developer I have experience in web development for government agencies. Over the past 6 years, I am quite confident in making the website meet international standards and quality.",
     images: "/images/profile/gunclick_profile.jpg",
     no_images: "/images/profile/gunclick_profile.jpg",
     social: {
@@ -20,79 +20,14 @@ export default {
         "Web Developer",
         "FullStack Developer",
     ],
-    certificates: [
-        {
-            title: "Certificate ITPE<br>IP",
-            category: "สวทช.",
-            images: [
-                "/images/profile/itpe1.jpg",
-                "/images/profile/itpe2.jpg",
-            ],
-        },
-        {
-            title: "Certificate TPQI<br>นักพัฒนาระบบชั้น 3",
-            category: "สถาบันคุณวุฒิวิชาชีพ",
-            images: [
-                "/images/profile/tpqi1.jpg",
-                "/images/profile/tpqi2.jpg",
-            ],
-        },
-        {
-            title: "Certificate IC3",
-            category: "สถาบันคุณวุฒิวิชาชีพ",
-            images: [
-                "/images/profile/ic3.jpg",
-            ],
-        },
-    ],
-    awards: {
-        fullname: "Peerapat Matheang",
-        images: "/images/profile/wewebplus-05971-172x172.jpg",
-        work: "FullStack Developer",
-        desc: "All awards received since college.",
-        list: [
-            {
-                title: "04 September 2016",
-                desc: "ACM ICPC 2016 รองชนะเลิศอันดับ 1 ระดับภูมิภาคเหนือ",
-            },
-            {
-                title: "17 - 18 October 201",
-                desc: "ACM ICPC 2016 ระดับประเทศ Thailand National On-site",
-            },
-            {
-                title: "23 June 2017",
-                desc: "Startup Thailand 2017",
-            },
-            {
-                title: "01 April 2018",
-                desc: "Startup Thailand 2018",
-            },
-            {
-                title: "05 - 07 May 2017",
-                desc: "NDX-Northern Digital Expo 2017",
-            },
-            {
-                title: "06 February 2017",
-                desc: "การแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 19 (NSC 2017)",
-            },
-            {
-                title: "14 February 2018",
-                desc: "การแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 20 (NSC 2018)",
-            },
-            {
-                title: "30 November 2016",
-                desc: "UP Disrupt 2016",
-            },
-        ],
-    },
     resume: {
         experiences: [
             {
                 isActive: true,
                 year: "2020 - Present",
                 subject: "FullStack Developer",
-                title: "289 Production House Co,. Ltd.",
-                desc: "It is a web development company with government clients and private companies.",
+                title: "BusX Co,. Ltd.",
+                desc: "Is the largest ticketing platform website development company in Thailand.",
             },
             {
                 isActive: true,
@@ -126,15 +61,15 @@ export default {
         },
         {
             title: "Always seeking new knowledge",
-            scale: "90%",
+            scale: "70%",
         },
         {
             title: "Reasoning and Problem Solving",
-            scale: "85%",
+            scale: "80%",
         },
         {
             title: "Enthusiasm for work",
-            scale: "75%",
+            scale: "90%",
         },
     ],
     languages: [
