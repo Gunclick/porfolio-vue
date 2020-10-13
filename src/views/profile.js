@@ -45,6 +45,7 @@ export default {
             ],
         },
     ],
+    awards: { },
     resume: {
         experiences: [
             {
