@@ -104,9 +104,6 @@
 						<a target="_blank" :href="profile.social.facebook">
 							<span class="fa fa-facebook-f"></span>
 						</a>
-						<a target="_blank" :href="profile.social.linkedin">
-							<span class="fa fa-linkedin"></span>
-						</a>
 						<a target="_blank" :href="profile.social.github">
 							<span class="fa fa-github"></span>
 						</a>
@@ -160,62 +157,6 @@
 										<li><strong>Freelance . . . . .</strong> {{profile.freelance}}</li>
 										<li><strong>Address . . . . .</strong> {{profile.address}}, {{profile.county}}</li>
 									</ul>
-								</div>
-							</div>
-							<div class="clear"></div>
-						</div>
-
-					</div>
-
-					<!--
-						Awards
-					-->
-					<div class="content services">
-
-						<!-- title -->
-						<div class="title">Awards</div>
-
-						<!-- content -->
-						<div class="row service-items border-line-v">
-							<!-- service item -->
-							<div class="col col-d-6 col-t-6 col-m-12 border-line-h" v-for="(award, index) in profile.awards.list" :key="index">
-								<div class="service-item">
-									<div class="icon">
-										<span class="fa fa-trophy"></span>
-									</div>
-									<div class="name">
-										<span >{{award.title}}</span>
-									</div>
-									<div class="desc">
-										<div >
-											{{award.desc}}
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="clear"></div>
-
-						<!-- content -->
-						<div class="row">
-							<div class="col col-d-12 col-t-12 col-m-12 border-line-v">
-								<div class="revs-item">
-									<div class="text">
-										<div >
-											{{profile.awards.desc}}
-										</div>
-									</div>
-									<div class="user">
-										<div class="img">
-											<img :src="profile.awards.images" alt="{{profile.awards.fullname}}" />
-										</div>
-										<div class="info">
-											<div class="name">{{profile.awards.fullname}}</div>
-											<div class="company">{{profile.awards.work}}</div>
-										</div>
-										<div class="clear"></div>
-									</div>
 								</div>
 							</div>
 							<div class="clear"></div>
