@@ -20,31 +20,6 @@ export default {
         "Web Developer",
         "FullStack Developer",
     ],
-    certificates: [
-        {
-            title: "Certificate ITPE<br>IP",
-            category: "สวทช.",
-            images: [
-                "/images/profile/itpe1.jpg",
-                "/images/profile/itpe2.jpg",
-            ],
-        },
-        {
-            title: "Certificate TPQI<br>นักพัฒนาระบบชั้น 3",
-            category: "สถาบันคุณวุฒิวิชาชีพ",
-            images: [
-                "/images/profile/tpqi1.jpg",
-                "/images/profile/tpqi2.jpg",
-            ],
-        },
-        {
-            title: "Certificate IC3",
-            category: "สถาบันคุณวุฒิวิชาชีพ",
-            images: [
-                "/images/profile/ic3.jpg",
-            ],
-        },
-    ],
     resume: {
         experiences: [
             {
