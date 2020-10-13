@@ -45,46 +45,6 @@ export default {
             ],
         },
     ],
-    awards: {
-        fullname: "Peerapat Matheang",
-        images: "/images/profile/wewebplus-05971-172x172.jpg",
-        work: "FullStack Developer",
-        desc: "All awards received since college.",
-        list: [
-            {
-                title: "04 September 2016",
-                desc: "ACM ICPC 2016 รองชนะเลิศอันดับ 1 ระดับภูมิภาคเหนือ",
-            },
-            {
-                title: "17 - 18 October 201",
-                desc: "ACM ICPC 2016 ระดับประเทศ Thailand National On-site",
-            },
-            {
-                title: "23 June 2017",
-                desc: "Startup Thailand 2017",
-            },
-            {
-                title: "01 April 2018",
-                desc: "Startup Thailand 2018",
-            },
-            {
-                title: "05 - 07 May 2017",
-                desc: "NDX-Northern Digital Expo 2017",
-            },
-            {
-                title: "06 February 2017",
-                desc: "การแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 19 (NSC 2017)",
-            },
-            {
-                title: "14 February 2018",
-                desc: "การแข่งขันพัฒนาโปรแกรมคอมพิวเตอร์แห่งประเทศไทย ครั้งที่ 20 (NSC 2018)",
-            },
-            {
-                title: "30 November 2016",
-                desc: "UP Disrupt 2016",
-            },
-        ],
-    },
     resume: {
         experiences: [
             {
