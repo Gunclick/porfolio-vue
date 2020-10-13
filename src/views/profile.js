@@ -45,7 +45,6 @@ export default {
             ],
         },
     ],
-    awards: {},
     resume: {
         experiences: [
             {
@@ -73,7 +72,7 @@ export default {
         educations: [
             {
                 isActive: false,
-                year: "2015 - 2019",
+                year: "2013 - 2017",
                 subject: "Bangkok University (Rangsit)",
                 title: "Bangkok, Thailand",
                 desc: "Bachelor's Degree, Multimedia Engineering and Internet Systems.",
